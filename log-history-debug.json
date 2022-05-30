@@ -1,18 +1,9 @@
 {
-  "update": {
-    "time": "1653881561489",
-    "log": "修复了软件多开的问题\n新增完善拼多多采集\n修复拼多多支付卡住的问题\n修复1688下单选SKU的问题及多商品问题",
-    "prefix": "检测到软件有一个更新，请点击",
-    "version": "v2.8.0",
-    "suffix": "查看详情",
-    "link": "https://webcrawl.lanzouy.com/iII4v05igzmh"
-  },
   "notice": {
-    "time": "1653832509813",
+    "time": "1653832509814",
     "prefix": "检测到软件有一个更新，请点击",
     "content": "代购高效使用模板0（图文+视频）",
-    "suffix": "查看详情",
-    "link": "https://mp.weixin.qq.com/s/toWjAmdNQ6P1xtlyhuLDwg"
+    "suffix": "查看详情"
   },
   "common-links": {
     
