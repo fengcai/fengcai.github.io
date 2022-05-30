@@ -1,10 +1,12 @@
 {
-    "n": {
-        "d": "1653832509813",
-        "t": "代购高效使用模板0（图文+视频",
-        "l": "https://mp.weixin.qq.com/s/toWjAmdNQ6P1xtlyhuLDwg"
-    },
-    "u": {
-        "d": "1653792087425"
-    }
+  "notice": {
+    "time": "1653832509813",
+    "content": "代购高效使用模板0（图文+视频）",
+    "link": "https://mp.weixin.qq.com/s/toWjAmdNQ6P1xtlyhuLDwg"
+  },
+  "update": {
+    "time": "1653792087425",
+    "version": "",
+    "log": ""
+  }
 }
