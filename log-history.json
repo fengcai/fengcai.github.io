@@ -1,9 +1,9 @@
 {
-  "time": "1655078855",
-  "type": 0,
-  "title": "新增京东到家订单导出\n修复了部分情况下拼多多采集卡住的问题\n修复了部分情况下拼多多下单卡主的问题\n修复了拼多多地址有时识别不准的问题",
-  "prefix": "发现webcrawl-v2.8.0版本有个更新，",
-  "content": "点击查看详情",
-  "suffix": "",
-  "link": "https://webcrawl.lanzouy.com/ixFtd06bjf0h"
+  "time": "1657238835",
+  "type": 1,
+  "title": "新增设置代理设置UA\n支持CSV读取\n优化抖音订单导出\n新增京东订单导出项\n...",
+  "prefix": "新版发布，请点击",
+  "content": "《webcrawl-v2.9.0正式发布》",
+  "suffix": "查看详情",
+  "link": "https://mp.weixin.qq.com/s/LtIX1YfTATg9TkKy0kraNA"
 }
