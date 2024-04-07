@@ -4,5 +4,8 @@
     "oem_client_secret": "e95dcf24958c5c5a96076fbb4aa3ddf65e9aeaf3",
     "oem_pid": "39177623_278404359"
   },
-  "download": 0
+  "download_action": {
+    "time": "1703936020",
+    "type": 0
+  }
 }
