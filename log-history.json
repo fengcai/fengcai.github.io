@@ -1,9 +1,9 @@
 {
-  "time": "1778733942",
+  "time": "1780625452",
   "type": 1,
-  "title": "修复拼多多下单中的价格问题\n修复淘宝订单导出问题...",
+  "title": "修复拼多多导单、下单、批量付款和批量开票等功能的已知问题\n修复1688下单、开票...",
   "prefix": "",
-  "content": "正式发布蓝枫v3.6.9",
+  "content": "正式发布蓝枫v3.7.0",
   "suffix": "",
-  "link": "https://mp.weixin.qq.com/s/gShmdLSLkBNqoVr3SS67UA"
+  "link": "https://mp.weixin.qq.com/s/vp_EuuC-ob4CAJVvr20uQw"
 }
